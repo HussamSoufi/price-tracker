@@ -1,4 +1,4 @@
-#Written by Hussam Soufi
+#@author  Hussam Soufi: hussam1soufi@gmail.com
 
 import requests
 from bs4 import BeautifulSoup
