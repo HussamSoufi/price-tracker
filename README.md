@@ -1,3 +1,3 @@
-# price-tracker
+# Amazon price-tracker
 
 By: Hussam Soufi
